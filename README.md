@@ -1,6 +1,6 @@
 # Air_Quality_data_Analysis
 
-###🌟 **Comprehensive Data Exploration**
+### 🌟 **Comprehensive Data Exploration**
 
    💠 **Basic Analysis**: The basic-level questions focus on foundational data exploration, such as identifying air quality in specific cities and checking for data completeness. These are essential steps for understanding the dataset and ensuring data quality.
    
