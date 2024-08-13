@@ -1,5 +1,4 @@
 # Air_Quality_data_Analysis
-To justify the Air Quality Data Analysis project using SQL, focusing on the provided questions, you can highlight several key points:
 
 ### 1. **Comprehensive Data Exploration**
    - **Basic Analysis**: The basic-level questions focus on foundational data exploration, such as identifying air quality in specific cities and checking for data completeness. These are essential steps for understanding the dataset and ensuring data quality.
